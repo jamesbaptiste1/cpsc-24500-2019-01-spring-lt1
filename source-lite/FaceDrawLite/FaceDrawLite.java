@@ -1,3 +1,13 @@
+/******************************************************************************
+ * Copyright (C) 2019 Eric Pogue. All rights reserved. 
+ * 
+ * You should not utilize the source code in FaceDrawLite directly in your
+ * FaceDraw assignment.
+ * 
+ * This application utilizes the ShapeLibrary Java library.   
+ * 
+ *****************************************************************************/
+
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Graphics;
